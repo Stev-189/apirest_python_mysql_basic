@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=MvVqjQqSdM4&list=PLo5lAe9kQrwpArJFx2zIjwcIxnB_bg_z6&index=6
+https://github.com/FaztWeb/flask-mysql-restapi-sqlalchemy/blob/master/src/app.py
+pip install virtualenv # creampos entorno virtual
+virtualenv venv # creamos en entorno virtual
+venv/Script/activate.bat
+pip install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy pymysql
